@@ -1,4 +1,4 @@
-import { initializeCart, addToCart } from '/modules/cart.js';
+import { initializeCart, addToCart } from './modules/cart.js';
 
 const gridContainer = document.querySelector(".all-item-grid");
 const swiperContainer = document.querySelector(".swiper-wrapper");
